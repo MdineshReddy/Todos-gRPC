@@ -12,7 +12,7 @@ Launches the server
 
 Initiates the client requests.
 
-## Ex: node client "Exercise"
+Ex: node client "Exercise"
 
 ### Example Output Logs:
 
