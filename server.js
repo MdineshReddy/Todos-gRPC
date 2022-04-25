@@ -1,7 +1,7 @@
 const grpc = require("grpc");
 const protoLoader = require("@grpc/proto-loader");
 
-// load the proto file
+// load the todo proto file
 const packageDefinition = protoLoader.loadSync("todo.proto", {
   keepCase: false,
   longs: String,
