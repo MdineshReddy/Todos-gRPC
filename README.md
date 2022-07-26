@@ -23,3 +23,5 @@ Todos List:
 
 Todo Stream: {"id":1,"text":"Exercise"}
 Server done!
+
+// This is for my understanding
