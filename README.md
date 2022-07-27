@@ -12,7 +12,7 @@ Launches the server
 
 Initiates the client requests.
 
-## Ex: node client "Exercise"
+Ex: node client "Exercise"
 
 ### Example Output Logs:
 
@@ -23,3 +23,5 @@ Todos List:
 
 Todo Stream: {"id":1,"text":"Exercise"}
 Server done!
+
+// Hello World!
